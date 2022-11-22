@@ -1,0 +1,22 @@
+.footer{
+  width: 1920px;
+  height: 340px;
+  background-color: #ebcf8e;
+  margin: auto;
+  padding-top: 66px;
+  box-sizing: border-box;
+}
+
+.footer>.txt{
+  text-align: center;
+  color: #d04816;
+}
+.footer>.txt>h2{
+
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.footer>.txt>p{
+  font-size: 16px;
+  line-height: 36px;
+}
